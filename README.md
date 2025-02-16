@@ -1,6 +1,6 @@
 
 
-<h2 align="center">Hi 👋, I'm Sheikh Najmul Hossain Niloy and I'm more than just a programmer</h2>
+<h2 align="center">Hi 👋, I'm Sheikh Najmul Hossain and I'm more than just a programmer</h2>
 <h3 align="center"></h3>
 
  ![I am programmer](https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif) 
