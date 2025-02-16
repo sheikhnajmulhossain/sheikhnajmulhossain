@@ -6,7 +6,7 @@
  ![I am programmer](https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif) 
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sheikh-niloy&label=Profile%20views&color=0e75b6&style=flat" alt="sheikh-niloy" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sheikhnajmulhossain&label=Profile%20views&color=0e75b6&style=flat" alt="sheikhnajmulhossain" /> </p>
 
 I make projects for fun and also to learn. I try to explore and master as many software and programming languages as I can. <br>
 learning  to create different kinds of projects and make them execute successfully excites me the most.
@@ -24,7 +24,7 @@ learning  to create different kinds of projects and make them execute successful
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/sheikhnhniloy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sheikhnhniloy" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/sheikh-niloy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sheikh-niloy" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/sheikhnajmulhossain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sheikhnajmulhossain" height="30" width="40" /></a>
 <a href="https://fb.com/sheikhnajmulhossainniloy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sheikhnajmulhossainniloy" height="30" width="40" /></a>
 <a href="https://instagram.com/snh_niloy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="snh_niloy" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/sheikhnajmulhos1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sheikhnajmulhos1" height="30" width="40" /></a>
@@ -43,14 +43,14 @@ learning  to create different kinds of projects and make them execute successful
 
 <h2 align="left"> 📈 My Github Stats:</h2>
 <!--
-![](https://github-readme-stats.vercel.app/api?username=sheikh-niloy&theme=react&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=sheikh-niloy&theme=react&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sheikh-niloy&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=sheikhnajmulhossain&theme=react&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=sheikhnajmulhossain&theme=react&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=sheikhnajmulhossain&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 -->
 
-![](https://github-readme-stats.vercel.app/api?username=sheikh-niloy&theme=nord&hide_border=true&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=sheikh-niloy&theme=nord&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sheikh-niloy&theme=nord&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=sheikhnajmulhossain&theme=nord&hide_border=true&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=sheikhnajmulhossain&theme=nord&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=sheikhnajmulhossain&theme=nord&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
 ---
   
