@@ -17,7 +17,7 @@ learning  to create different kinds of projects and make them execute successful
 - 🔭 I’m currently working on idaning.com & SiteChai.com 
 - 🌱 I’m currently learning Computer Science and engineering
 - 👯 I'm looking to collaborate on exciting and fun projects
-- 📫 How to reach me: ceo@sitechai.com, ceo@idaning.com
+- 📫 How to reach me: ceo@sitechai.com, sheikh.niloy.info@gmail.com
 
 
 <!--
