@@ -40,6 +40,10 @@ learning  to create different kinds of projects and make them execute successful
  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sheikhnajmulhossain&theme=nord&hide_border=true" height="150" alt="GitHub Streak Stats" />
 
 
+ <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sheikhnajmulhossain&theme=dracula" height="150" alt="Profile Summary Card" />
+
+
+
 
 
 </div>
