@@ -37,6 +37,7 @@ learning  to create different kinds of projects and make them execute successful
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sheikhnajmulhossain&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sheikhnajmulhossain&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+ <img src="(https://github-readme-streak-stats.herokuapp.com/?user=sheikhnajmulhossain&theme=nord&hide_border=true" height="150" alt="languages graph"  />
 </div>
 
 ###
@@ -92,11 +93,6 @@ learning  to create different kinds of projects and make them execute successful
 
 
 <h2 align="left"> 📈 My Github Stats:</h2>
-<!--
-![](https://github-readme-stats.vercel.app/api?username=sheikhnajmulhossain&theme=react&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=sheikhnajmulhossain&theme=react&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sheikhnajmulhossain&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
--->
 
 ![](https://github-readme-stats.vercel.app/api?username=sheikhnajmulhossain&theme=nord&hide_border=true&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=sheikhnajmulhossain&theme=nord&hide_border=true)<br/>
