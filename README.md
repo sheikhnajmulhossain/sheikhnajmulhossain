@@ -60,6 +60,10 @@ learning  to create different kinds of projects and make them execute successful
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
 </div>
+------------------------------------------------
+<h2 align="left">Support Me:</h2>
+<!-- <p><a href="https://www.buymeacoffee.com/sheikhnajmX"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="sheikhnajmX" /></a></p><br><br> -->
+<p><a href="https://www.paypal.me/snhniloy"> <img align="left" src="https://lavendercottagecattery.co.uk/wp-content/uploads/2022/10/CITYPNG.COMDownload-PayPal-Yellow-Payment-Button-PNG-2100x770-2.png" height="77" width="210" alt="snhniloy" /></a></p><br><br><br>
 
 ###
 
@@ -68,23 +72,5 @@ learning  to create different kinds of projects and make them execute successful
 <img src="https://raw.githubusercontent.com/sheikhnajmulhossain/sheikhnajmulhossain/output/snake.svg" alt="Snake animation" />
 
 ###
-
-
-------------------------------------------------
-
-
-
-
-<h2 align="left">Support Me:</h2>
-<!-- <p><a href="https://www.buymeacoffee.com/sheikhnajmX"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="sheikhnajmX" /></a></p><br><br> -->
-<p><a href="https://www.paypal.me/snhniloy"> <img align="left" src="https://lavendercottagecattery.co.uk/wp-content/uploads/2022/10/CITYPNG.COMDownload-PayPal-Yellow-Payment-Button-PNG-2100x770-2.png" height="77" width="210" alt="snhniloy" /></a></p><br><br><br>
-
-
-<h2 align="left"> 📈 My Github Stats:</h2>
-
-![](https://github-readme-stats.vercel.app/api?username=sheikhnajmulhossain&theme=nord&hide_border=true&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=sheikhnajmulhossain&theme=nord&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sheikhnajmulhossain&theme=nord&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
-
 ---
   
