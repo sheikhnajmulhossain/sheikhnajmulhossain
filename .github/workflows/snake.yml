@@ -18,8 +18,12 @@ jobs:
           github_user_name: sheikhnajmulhossain
           svg_out_path: dist/github-contribution-grid-snake.svg
 
-      - name: Upload Snake Animation
-        uses: actions/upload-artifact@v2
-        with:
-          name: snake-animation
-          path: dist/github-contribution-grid-snake.svg
+      - name: Commit and Push the Snake Animation
+        run: |
+          mkdir -p output
+          mv dist/github-contribution-grid-snake.svg output/
+          git config --global user.email "action@github.com"
+          git config --global user.name "GitHub Action"
+          git add output/github-contribution-grid-snake.svg
+          git commit -m "Generated GitHub contribution grid snake animation"
+          git push
