@@ -65,18 +65,8 @@ learning  to create different kinds of projects and make them execute successful
 <!-- <p><a href="https://www.buymeacoffee.com/sheikhnajmX"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="sheikhnajmX" /></a></p><br><br> -->
 <p><a href="https://www.paypal.me/snhniloy"> <img align="left" src="https://lavendercottagecattery.co.uk/wp-content/uploads/2022/10/CITYPNG.COMDownload-PayPal-Yellow-Payment-Button-PNG-2100x770-2.png" height="77" width="210" alt="snhniloy" /></a></p><br><br><br>
 
+### 
+<br clear="both"> <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" /> 
 ###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/sheikhnajmulhossain/sheikhnajmulhossain/output/snake.svg" alt="Snake animation" />
-![Snake animation](https://github.com/sheikhnajmulhossain/sheikhnajmulhossain/blob/output/github-contribution-grid-snake.svg)
-
-
-###
-![Snake animation](https://github.com/sheikhnajmulhossain/sheikhnajmulhossain/blob/output/github-contribution-grid-snake.svg)
-
-
-
 ---
   
