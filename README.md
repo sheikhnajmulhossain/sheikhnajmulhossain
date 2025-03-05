@@ -20,31 +20,16 @@ learning  to create different kinds of projects and make them execute successful
 - 📫 How to reach me: ceo@sitechai.com, sheikh.niloy.info@gmail.com
 
 
-<!--
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/sheikhnhniloy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sheikhnhniloy" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/sheikhnajmulhossain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sheikhnajmulhossain" height="30" width="40" /></a>
-<a href="https://fb.com/sheikhnajmulhossainniloy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sheikhnajmulhossainniloy" height="30" width="40" /></a>
-<a href="https://instagram.com/snh_niloy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="snh_niloy" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/sheikhnajmulhos1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sheikhnajmulhos1" height="30" width="40" /></a>
-<a href="https://discord.gg/nj.niloy#4163" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="nj.niloy#4163" height="30" width="40" /></a>
-</p>
--->
 -----------------------------------------------------
 ###
-
+<div>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=sheikhnajmulhossain&theme=dracula&hide_border=true" height="150" alt="GitHub Streak Stats" />
 <img src="https://github-readme-stats.vercel.app/api?username=sheikhnajmulhossain&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sheikhnajmulhossain&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sheikhnajmulhossain&theme=dracula" height="150" alt="Profile Summary Card" />
-
-
 </div>
 
 ###
-
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
 ###
 
