@@ -24,22 +24,15 @@ learning  to create different kinds of projects and make them execute successful
 
 <!---
 Social Media
--->
+
 <div align="left">
   <a href="https://www.facebook.com/profile.php?id=61567286697154" target="_blank" rel="noopener noreferrer">
-  </a>
-
   <a href="https://www.instagram.com/snh_niloy" target="_blank" rel="noopener noreferrer">
-  </a>
-  
-
   <a href="mailto:sheikh.niloy.info@gmail.com" target="_blank" rel="noopener noreferrer">
-  </a>
-
   <a href="https://www.linkedin.com/in/sheikhnajmulhossain" target="_blank" rel="noopener noreferrer">
-  </a>
-</div>
-<hr />
+
+
+-->
 
 <!---
 Github Stats
