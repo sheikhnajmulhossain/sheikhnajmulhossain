@@ -53,18 +53,20 @@ Github Stats
 Languages, Frameworks & Tools
 -->
 
- <hr/>
- 
+<!-- Languages, Frameworks & Tools -->
+
+<hr/>
 <h2 align="center">⚒️ Preferred Languages, Frameworks & Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=cpp,cs,python,java,bash,bootstrap,php,html,css" />
+    <img src="https://skillicons.dev/icons?i=cpp,csharp,python,java,bash,bootstrap,php,html,css" />
     <img src="https://skillicons.dev/icons?i=bun,npm,yarn,aws,docker,mysql,vercel" />
-    <img src="https://skillicons.dev/icons?i=dotnet,nextjs,react,nuxt,laravel,linux,nginx" /><br>
-    <img src="https://skillicons.dev/icons?i=git,unreal,unity,vscode,atom,eclipse,pr,photoshop,ai," /><br>
+    <img src="https://skillicons.dev/icons?i=dotnet,nextjs,react,nuxt,laravel,linux,nginx" />
+    <img src="https://skillicons.dev/icons?i=git,unreal,unity,vscode,atom,eclipse,pr,photoshop,ai" />
 </div>
 <br/>
 <hr/>
+
 
 
 <h2 align="left">Support Me:</h2>
