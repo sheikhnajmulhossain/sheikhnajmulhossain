@@ -37,7 +37,7 @@ Social Media
 <!---
 Github Stats
 -->
-
+<hr/>
 <div align="center">
     <div style="display: flex; justify-content: center; gap: 10px;">
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=sheikhnajmulhossain&theme=dracula&hide_border=true" height="180" alt="GitHub Streak Stats" />
@@ -50,7 +50,7 @@ Github Stats
     </div>
 </div>
 
-
+<hr/>
 <!-- Languages, Frameworks & Tools -->
 
 <hr/>
