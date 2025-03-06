@@ -50,7 +50,6 @@ Github Stats
     </div>
 </div>
 
-<hr/>
 <!-- Languages, Frameworks & Tools -->
 
 <hr/>
