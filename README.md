@@ -33,7 +33,7 @@ Social Media
 
 
 -->
-
+<hr/>
 <h2 align="center"> 📊 GitHub Stats 📊 </h2>
 
 | Streak Stats | General Stats |
