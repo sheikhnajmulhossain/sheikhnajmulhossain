@@ -26,7 +26,7 @@ learning  to create different kinds of projects and make them execute successful
 Social Media
 -->
 <div align="left">
-<a href="www.facebook.com/sheikhhossain.facebook">
+<a href="https://www.facebook.com/sheikhhossain.facebook" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" 
          height="35" alt="facebook logo" />
 </a>
