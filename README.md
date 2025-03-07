@@ -26,7 +26,7 @@ learning  to create different kinds of projects and make them execute successful
 Social Media
 -->
 <div align="left">
-<a href="www.facebook.com/sheikhhossain.facebook" target="_blank">
+<a href="www.facebook.com/sheikhhossain.facebook">
     <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" 
          height="35" alt="facebook logo" />
 </a>
@@ -34,7 +34,7 @@ Social Media
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" 
          height="35" alt="gmail logo" />
 </a>
-<a href="https://www.instagram.com/snh_niloy" target="_blank">
+<a href="https://www.instagram.com/snh_niloy">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" 
          height="35" alt="instagram logo" />
 </a>
