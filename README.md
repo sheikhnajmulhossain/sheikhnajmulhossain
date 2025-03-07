@@ -67,8 +67,17 @@ Social Media
 <br/>
 <hr/>
 
-
-
 <h2 align="left">Support Me:</h2>
 <p><a href="https://www.paypal.me/snhniloy"> <img align="left" src="https://lavendercottagecattery.co.uk/wp-content/uploads/2022/10/CITYPNG.COMDownload-PayPal-Yellow-Payment-Button-PNG-2100x770-2.png" height="77" width="210" alt="snhniloy" /></a></p><br><br><br>
+
+<hr/>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+
+###
+
 
