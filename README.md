@@ -34,21 +34,24 @@ Social Media
 
 -->
 
-<!---
-Github Stats
--->
+<!-- GitHub Stats -->
 <hr/>
 <div align="center">
-    <div style="display: flex; justify-content: center; gap: 10px;">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=sheikhnajmulhossain&theme=dracula&hide_border=true" height="180" alt="GitHub Streak Stats" />
-        <img src="https://github-readme-stats.vercel.app/api?username=sheikhnajmulhossain&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true" height="180" alt="GitHub Stats" />
-    </div>    
+    <div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=sheikhnajmulhossain&theme=dracula&hide_border=true" 
+             height="180" alt="GitHub Streak Stats" />
+        <img src="https://github-readme-stats.vercel.app/api?username=sheikhnajmulhossain&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true" 
+             height="180" alt="GitHub Stats" />
+    </div>
     <br/>
-    <div style="display: flex; justify-content: center; gap: 10px;">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sheikhnajmulhossain&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true" height="180" alt="Languages Graph" />
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sheikhnajmulhossain&theme=dracula&hide_border=true" height="180" alt="Profile Summary" />
+    <div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sheikhnajmulhossain&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true" 
+             height="180" alt="Languages Graph" />
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sheikhnajmulhossain&theme=dracula&hide_border=true" 
+             height="180" alt="Profile Summary" />
     </div>
 </div>
+
 
 <!-- Languages, Frameworks & Tools -->
 <hr/>
