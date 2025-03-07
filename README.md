@@ -60,9 +60,9 @@ Github Stats
 <div align="center">
     <img src="https://skillicons.dev/icons?i=cpp,cs,python,java,bash,bootstrap,php,html,css" />
     <br/>
-    <img src="https://skillicons.dev/icons?i=bun,npm,yarn,aws,docker,mysql,vercel" />
+    <img src="https://skillicons.dev/icons?i=wordpress,bun,npm,yarn,aws,docker,mysql,vercel,sublime" />
     <br/>
-    <img src="https://skillicons.dev/icons?i=dotnet,nextjs,react,nuxt,laravel,linux,nginx" />
+    <img src="https://skillicons.dev/icons?i=powershell,dotnet,nextjs,react,nuxt,laravel,linux,nginx,ubuntu" />
     <br/>
     <img src="https://skillicons.dev/icons?i=git,unreal,unity,vscode,atom,eclipse,pr,photoshop,ai" />
 </div>
