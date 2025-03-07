@@ -26,10 +26,10 @@ learning  to create different kinds of projects and make them execute successful
 Social Media
 -->
 <div align="left">
-<a href="https://www.facebook.com/sheikhhossain.facebook" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" 
-         height="35" alt="facebook logo" />
+<a href="https://www.facebook.com/sheikhhossain.facebook/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo" />
 </a>
+
 <a href="mailto:sheikh.niloy.info@gmail.com">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" 
          height="35" alt="gmail logo" />
@@ -44,29 +44,6 @@ Social Media
 </a>
 </div>
 
-
-############
-<a href="https://www.facebook.com/YOUR_PAGE" target="_blank" style="text-decoration: none;">
-    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" 
-         height="35" alt="facebook logo" />
-</a>
-
-<a href="mailto:your-email@gmail.com" style="text-decoration: none;">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" 
-         height="35" alt="gmail logo" />
-</a>
-
-<a href="https://www.instagram.com/YOUR_USERNAME" target="_blank" style="text-decoration: none;">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" 
-         height="35" alt="instagram logo" />
-</a>
-
-<a href="https://www.linkedin.com/in/YOUR_PROFILE" target="_blank" style="text-decoration: none;">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0A66C2&logoColor=white&labelColor=&style=for-the-badge" 
-         height="35" alt="linkedin logo" />
-</a>
-
-#######
 
 <hr/>
 <h2 align="center"> 📊 GitHub Stats 📊 </h2>
